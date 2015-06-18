@@ -1,4 +1,4 @@
-Optimizing Linkage Editor (V.10.02.00.000)        11-Jun-2015 13:51:59
+Optimizing Linkage Editor (V.10.02.00.000)        18-Jun-2015 11:31:01
 
 *** Options ***
 
@@ -70,21 +70,21 @@ C$BSEC
 C$VECT
                                   fff80e3c  fff8123b       400   4
 L
-                                  fff8123c  fff81328        ed   4
+                                  fff8123c  fff81330        f5   4
 D
-                                  fff8132c  fff819df       6b4   4
+                                  fff81334  fff819e7       6b4   4
 D_1
-                                  fff819e0  fff81a33        54   1
+                                  fff819e8  fff81a3b        54   1
 D_2
-                                  fff81a34  fff81a34         0   2
+                                  fff81a3c  fff81a3c         0   2
 P
-                                  fff81a34  fff8a2bf      888c   1
+                                  fff81a3c  fff8a2d5      889a   1
 W
-                                  fff8a2c0  fff8a2c0         0   4
+                                  fff8a2d8  fff8a2d8         0   4
 W_1
-                                  fff8a2c0  fff8a2c0         0   1
+                                  fff8a2d8  fff8a2d8         0   1
 W_2
-                                  fff8a2c0  fff8a423       164   2
+                                  fff8a2d8  fff8a43b       164   2
 $ADDR_C_FFFFFF80
                                   ffffff80  ffffff8f        10   1
 FIXEDVECT

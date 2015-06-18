@@ -86,7 +86,7 @@ float pdm_error;
 float pdm_temp;
 
 // Data buffer
-static uint8_t data[4096];
+//static uint8_t data[4096];
 
 /******************************************************************************
 * Function name: main
