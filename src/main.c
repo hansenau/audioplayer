@@ -110,6 +110,8 @@ void main(void)
   /* Clear LCD */
   lcd_clear();
 
+  lcd_display(LCD_LINE1, "whoops");
+
   // Initialize SD and display R1 on LCD
   //sprintf(disp_line, "resp = 0x%02X", sd_initialize());
   //lcd_display(LCD_LINE1, disp_line);
